@@ -14,5 +14,5 @@
 
 ## Architecture 🧮
 <p align="center">
-<img src="https://i.ibb.co/zRSW8R1/architecture.png" width="800" height="800" />
+<img src="https://i.ibb.co/zRSW8R1/architecture.png" width="500" height="500" />
 </p>
