@@ -9,4 +9,4 @@
 
 ## Architecture 🧮
 
-![alt text](https://ibb.co/jML9VMd)
+![alt text](https://i.ibb.co/zRSW8R1/architecture.png)
