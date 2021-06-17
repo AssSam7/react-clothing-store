@@ -8,5 +8,6 @@
 2. Component Design
 
 ## Architecture 🧮
-
-![alt text](https://i.ibb.co/zRSW8R1/architecture.png)
+<p align="center">
+<img src="https://i.ibb.co/zRSW8R1/architecture.png" width="800" height="800" />
+</p>
