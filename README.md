@@ -20,7 +20,7 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://www.linkedin.com/in/malsaslam97/"><img src="https://i.ibb.co/RSSJGgb/MyDP.jpg" width="150" height="150"/> </a>
+        <a href="https://www.linkedin.com/in/malsaslam97" target="_blank"><img src="https://i.ibb.co/RSSJGgb/MyDP.jpg" width="150" height="150"/> </a>
         <p align="center">🌈 💻 📖</p>
       </p>
     </td>
