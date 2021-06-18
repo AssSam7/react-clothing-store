@@ -10,9 +10,20 @@
 
 > Clth Store is an e-commerce application serving users to buy clothes online. It's a master project built through React course by Andrei and Yihua
 
-
-
 ## Architecture 🧮
 <p align="center">
 <img src="https://i.ibb.co/hynsCRS/React-Clothing-Store-Architecture-Diagram.png" />
 </p>
+
+## Author ✍🏻
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/malsaslam97/"><img src="https://i.ibb.co/RSSJGgb/MyDP.jpg" width="150" height="150"/> </a>
+        <p align="center">🌈 💻 📖</p>
+      </p>
+    </td>
+    
+  </tr>
+</table>
