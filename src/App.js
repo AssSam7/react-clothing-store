@@ -8,7 +8,10 @@ import "./App.css";
 import HomePage from "./pages/homepage/homepage.component.jsx";
 import ShopPage from "./pages/shop/shop.component.jsx";
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up.component";
+import CheckoutPage from "./pages/checkout/checkout.component";
+
 import Header from "./components/header/header.component.jsx";
+
 import { setCurrentUser } from "./redux/user/user.actions";
 import { selectCurrentUser } from "./redux/user/user.selectors";
 
@@ -59,6 +62,7 @@ class App extends React.Component {
               )
             }
           />
+          <Route exact path="/checkout" component={CheckoutPage} />
         </Switch>
       </div>
     );
