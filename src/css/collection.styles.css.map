@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "../pages/collection/collection.styles.scss"
-    ],
-    "names": [],
-    "file": "collection.styles.css"
-}
